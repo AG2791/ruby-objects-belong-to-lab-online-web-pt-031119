@@ -4,8 +4,6 @@ class Song
   
    def iniitialize(title)
      @title = title
-     
-     
    end
   
 end
